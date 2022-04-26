@@ -1,0 +1,30 @@
+.cabecalho {
+    display: flex;
+    width: 124.7vw;
+    height: 10vw;
+    background-color:#cf0000; 
+}
+
+.cabecalho .titulo {
+    display:flex;
+    width: 85vw;
+    align-items:center;
+    justify-content:center;
+    color:whitesmoke;    
+}
+
+.cabecalho .usuario {
+    display: flex;
+    align-items: flex-end;
+    color: whitesmoke;
+}
+
+.cabecalho .usuario p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.cabecalho .usuario p img {
+    width: 1.5em;
+    height: 1.5em;
+}
