@@ -1,0 +1,24 @@
+.menu {
+    width:15vw;
+    height:60vw;
+    background-color:#cf0000;
+    color: #cf0000;
+}
+
+.menu > ul > li {
+    list-style: none;
+    width: 12vw;
+    height: 8vw;
+    text-align: center;
+}
+
+.menu > ul > li:hover{
+    background-color:rgba(212, 211, 211, 0.281);
+    
+}
+
+.menu > ul > li > a {
+    text-decoration: none;
+    color: #ffffff;
+   
+}
